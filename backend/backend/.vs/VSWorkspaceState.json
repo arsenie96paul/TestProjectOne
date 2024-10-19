@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\Controllers",
+    "\\backend\\Database",
+    "\\backend\\Dto",
+    "\\backend\\Migrations",
+    "\\backend\\Models",
+    "\\backend\\Services"
+  ],
+  "SelectedNode": "\\backend\\Controllers\\TaxController.cs",
+  "PreviewInSolutionExplorer": false
+}
